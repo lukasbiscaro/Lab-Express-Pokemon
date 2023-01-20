@@ -38,6 +38,8 @@ npm run test
 
 ## Instructions
 
+**Work on the app.js file**
+
 **Your API should have (at least) 3 endpoints (routes):**
 
 1. A `GET /pokemon` route, that serves an array of objects containing data about all the Pokemons
