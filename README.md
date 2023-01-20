@@ -25,7 +25,12 @@ You should use `express` to create your app, build the routing logic with the bu
 
 - Create Pull Request so your TAs can check up your work.
 
-> Run the following command to run the tests
+- Install the libraries before start your lab
+```bash
+npm install
+```
+
+- Run the following command to run the tests
 
 ```bash
 npm run test
